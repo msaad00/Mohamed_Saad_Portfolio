@@ -11,7 +11,12 @@ Data Analytics Portfolio
 * Compare providers based on number of outages, average MW of lost energy duration of outages to identify unreliable providers
 * Reccomended changes to the penalization system taking into account all insights found.
 
-# [Project 3: Chem Corp](https://github.com/msaad00/Project-3-files.git)
+# Project 3: Churning Customers
+* Analysis of historical data of credit card customers using Tableau to visualize and understand the relationship between credit card cancellations and categorical and numerical variables
+* Using statistical analysis in Pyhton to determine significant variables and build a predictive model to predict churning customers.
+* 
+# [Project 4: Chem Corp](https://github.com/msaad00/Project-3-files.git)
 * Analyzed and visualized Sales data using Excel and Tableau 
 * Use insights to answer management questions regarding product performance, diversification and market opportunities. 
 * Built a Tableau story with dynamic filters that answers and visualizes management concerns and provide reccomendations.
+
