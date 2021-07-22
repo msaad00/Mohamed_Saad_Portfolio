@@ -7,8 +7,8 @@ Data Analytics Portfolio
 * Built a predictive model using logistic regression to predict cancellations.
 
 # [Project 2: American Energy Market Regulator](https://github.com/msaad00/Project-2-files.git)
-* Analysis of hypothetical outage data from a number of producers with focus on forced outages to identify unreliable providers.
-* Answer management after compar companies with the most outages, the most average MW of lost energy  longest outage average duration and 
+* Analysis of hypothetical outage data from a number of producers using SQL
+* Compare providers based on number of outages, average MW of lost energy duration of outages to identify unreliable providers
 * Reccomended changes to the penalization system taking into account all insights found.
 
 # [Project 3: Chem Corp](https://github.com/msaad00/Project-3-files.git)
