@@ -11,7 +11,7 @@ Data Analytics Portfolio
 * Answer management after compar companies with the most outages, the most average MW of lost energy  longest outage average duration and 
 * Reccomended changes to the penalization system taking into account all insights found.
 
-# [Project 3: Chem Corp]()
+# [Project 3: Chem Corp](https://github.com/msaad00/Project-3-files.git)
 * Analyzed and visualized Sales data using Excel and Tableau 
 * Use insights to answer management questions regarding product performance, diversification and market opportunities. 
 * Built a Tableau story with dynamic filters that answers and visualizes management concerns and provide reccomendations.
