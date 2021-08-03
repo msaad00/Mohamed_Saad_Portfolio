@@ -14,7 +14,7 @@ Data Analytics Portfolio
 # Project 3: Churning Customers
 * Analysis of historical data of credit card customers using Tableau to visualize and understand the relationship between credit card cancellations and categorical and numerical variables
 * Using statistical analysis in Pyhton to determine significant variables and build a predictive model to predict churning customers.
-* 
+
 # [Project 4: Chem Corp](https://github.com/msaad00/Project-4-files.git)
 * Analyzed and visualized Sales data using Excel and Tableau 
 * Use insights to answer management questions regarding product performance, diversification and market opportunities. 
