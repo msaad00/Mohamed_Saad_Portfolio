@@ -11,7 +11,7 @@ Data Analytics Portfolio
 * Compare providers based on number of outages, average MW of lost energy duration of outages to identify unreliable providers
 * Reccomended changes to the penalization system taking into account all insights found.
 
-# [Project 3: HBS Bank - Customer Attrition]()
+# [Project 3: HBS Bank - Customer Attrition](https://github.com/msaad00/Project-3-files.git)
 * Analysis of historical data of bank customers using Tableau to visualize and understand the relationship between customer attrition and categorical and numerical variables
 * Using statistical analysis in Pyhton to determine significant variables and build a predictive model to predict churning customers.
 
