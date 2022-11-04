@@ -21,4 +21,4 @@ Data Analytics Portfolio
 * Used insights to answer management questions regarding product performance, diversification and market opportunities. 
 * Built a Tableau story with dynamic filters that answers and visualizes management concerns and provide reccomendations.
 
-# [General SQL: Chem Corp](https://github.com/msaad00/SQL.git)
+# [General SQL](https://github.com/msaad00/SQL.git)
